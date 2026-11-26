@@ -1,0 +1,5 @@
+h,analog_knn,autoregressive_seasonal,persistence,seasonal_average
+1,0.84,0.74,1.0,3.05
+2,0.77,0.71,1.0,1.66
+3,0.71,0.68,1.0,1.21
+4,0.65,0.64,1.0,0.97
